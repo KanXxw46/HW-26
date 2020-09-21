@@ -1,0 +1,4 @@
+C:\Users\Андрей\source\repos\HW26\HW26\bin\Debug\netcoreapp3.1\HW26.exe
+C:\Users\Андрей\source\repos\HW26\HW26\obj\Debug\netcoreapp3.1\HW26.csprojAssemblyReference.cache
+C:\Users\Андрей\source\repos\HW26\HW26\obj\Debug\netcoreapp3.1\HW26.AssemblyInfoInputs.cache
+C:\Users\Андрей\source\repos\HW26\HW26\obj\Debug\netcoreapp3.1\HW26.AssemblyInfo.cs
